@@ -1,5 +1,10 @@
 # pipeline
 
+[![Go version](https://img.shields.io/badge/go-1.24.2+-blue.svg)](https://golang.org)
+[![Go Reference](https://pkg.go.dev/badge/github.com/Averlex/pipeline.svg)](https://pkg.go.dev/github.com/Averlex/pipeline)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Averlex/pipeline)](https://goreportcard.com/report/github.com/Averlex/pipeline)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+
 A composable pipeline execution engine for Go with graceful shutdown via done channel.
 
 ## Features
